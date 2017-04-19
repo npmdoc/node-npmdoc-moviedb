@@ -54,12 +54,37 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.moviedb">module moviedb</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.moviedb.moviedb">
+            function <span class="apidocSignatureSpan"></span>moviedb
+            <span class="apidocSignatureSpan">(api_key, base_url)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.moviedb" id="apidoc.module.moviedb">module moviedb</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.moviedb.moviedb" id="apidoc.element.moviedb.moviedb">
+        function <span class="apidocSignatureSpan"></span>moviedb
+        <span class="apidocSignatureSpan">(api_key, base_url)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">moviedb = function (api_key, base_url) {
+  if(api_key) return new MovieDB(api_key, base_url);
+  else throw new Error('Bad api key');
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
