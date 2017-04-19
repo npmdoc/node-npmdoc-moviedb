@@ -1,9 +1,14 @@
-# api documentation for  [moviedb (v0.2.8)](https://github.com/impronunciable/moviedb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-moviedb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-moviedb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-moviedb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-moviedb)
+# npmdoc-moviedb
+
+#### api documentation for  [moviedb (v0.2.8)](https://github.com/impronunciable/moviedb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-moviedb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-moviedb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-moviedb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-moviedb)
+
 #### Library for interacting with themoviedb.com API
 
-[![NPM](https://nodei.co/npm/moviedb.png?downloads=true)](https://www.npmjs.com/package/moviedb)
+[![NPM](https://nodei.co/npm/moviedb.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/moviedb)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-moviedb/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-moviedb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-moviedb/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-moviedb/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-moviedb/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-moviedb/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-moviedb/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-moviedb/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Dan Zajdband",
-        "email": "dan.zajdband@gmail.com"
+        "name": "Dan Zajdband"
     },
     "bugs": {
         "url": "https://github.com/impronunciable/moviedb/issues"
@@ -50,13 +54,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "danzajdband",
-            "email": "dan.zajdband@gmail.com"
+            "name": "danzajdband"
         }
     ],
     "name": "moviedb",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/impronunciable/moviedb.git"
@@ -67,16 +69,6 @@
     "version": "0.2.8"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module moviedb](#apidoc.module.moviedb)
-
-
-
-# <a name="apidoc.module.moviedb"></a>[module moviedb](#apidoc.module.moviedb)
 
 
 
